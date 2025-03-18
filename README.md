@@ -121,3 +121,4 @@ python upload_to_blob_and_cosmos.py
 ---
 
 Would you like me to also prepare a **`requirements.txt`** file and a sample `.env` template for you? 🚀
+"# Web-Scraping-Azure-Blob-CosmosDB-Automation" 
